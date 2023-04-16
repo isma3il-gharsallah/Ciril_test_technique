@@ -1,0 +1,10 @@
+//largeur de la grille
+10
+//hauteur de la grille
+10
+//probabilité de propagation
+0.5
+//positions des cases initialement en feu
+1 1
+2 2
+3 3
